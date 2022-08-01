@@ -1,6 +1,7 @@
 # Welcome to the main page of the Paragon Softworks GitHub account!
 
 Our team consists of 2 people!
+
 AFellowSpeedrunner/MrMasterKeyboard (Head Developer)
 LisieDoesCode (Owner)
 
