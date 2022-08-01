@@ -3,6 +3,7 @@
 Our team consists of 2 people!
 
 AFellowSpeedrunner/MrMasterKeyboard (Head Developer)
+
 LisieDoesCode (Owner)
 
 Projects we are currently working on:
