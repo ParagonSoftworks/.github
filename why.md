@@ -3,7 +3,7 @@
 ## Halted Development
 
 Reason is LisieDoesCode doesn't have a powerful enough computer to continue coding and building it when the project gets bigger
-and MrMasterKeyboard doesn't have a backup computer powerful enough if his main PC goes down. We also don't have any idea on what to add
+and MrMasterKeyboard doesn't have a backup computer powerful enough to compile if his main PC goes down. We also don't have any idea on what to add
 as we are so early in development. We honestly can't code much right now as we aren't experienced in coding but have some knowledge.
 
 ## Website Down
