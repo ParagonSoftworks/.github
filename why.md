@@ -9,7 +9,7 @@ as we are so early in development. We honestly can't code much right now as we a
 ## Website Down
 
 The excuse behind this is that we don't want a github domain, we need a normal domain but we have tried a lot of things and nothing works.
-The website is also down until we get a proper solution up.
+So the website is down until we get a proper solution up.
 
 All of this doesn't mean we are going quiet and disappearing never to be heard from again but Popcorn is expected to resume some time around December and the website, we don't know when but soon.
 
