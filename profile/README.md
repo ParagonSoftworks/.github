@@ -2,6 +2,7 @@
 
 ### Development of Popcorn Kernel has been halted until further notice.
 ### Paragon Softworks website is down until we have a solution to domain names.
+https://github.com/ParagonSoftworks/.github/blob/main/why.md
 
 Our team consists of 2 people!
 
