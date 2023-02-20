@@ -2,8 +2,7 @@
 
 ## Notices
 
-The Entire Paragon Softworks Organisation is closed for Christmas. PS will return after Boxing Day.
-Our new child organisation Paragon Games (which we don't have an online thing for) is still open. (10/12/2022)
+Sun-setting the Popcorn Kernel and KudOS.
 
 ## About us!
 Our team consists of 2 people!
@@ -16,7 +15,7 @@ LisieDoesCode (Owner)
 
 Projects we are currently working on:
 
-Nothing, Christmas Break.
+Nothing anymore.
 
 ㅤ
 
